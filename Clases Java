@@ -1,0 +1,11 @@
+public class Variablechar{
+    public static void main (String args []){
+        char letra1 = 'm';
+        char letra2 = 'e';
+        char letra3 = 'a';
+        System.out.println ("print: " + letra1+letra2+letra3);
+        
+        
+    }
+    
+}
